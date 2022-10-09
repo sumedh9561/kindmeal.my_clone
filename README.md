@@ -3,13 +3,16 @@
  Kindmeal.com website was our project for Unit-3 Construct week at Masai School. We have made this project in 5 days.
 Our clone asos website - 
 
-Tech Stack
+# Tech Stack
+ 
 -HTML -CSS -JAVA SCRIPT -GIT HUB
 
-Features
+# Features
+
 -Login and signin page. -Sorting for price. -Add to cart opt for adding items. -Increment and Decrement Number of product according to that price is also changes. -Discount price after applying coupon.
 
-Challenges we face during Construct week
+# Challenges we face during Construct week
+
 On the first day we did't know about each other what is our weakness and what is our strong areas. So it was very difficult to assign right thing to right person.
 
 Everyone's mind works differently and so ours. The website given to us. We changed some things in website. Everyone's idea was different. It is very difficult to choose one idea.
@@ -20,8 +23,8 @@ Another challenge was to merge all of the files in a proper sequence which was a
 
 We faced challenges with CSS tags and class also, because when we merged CSS files for any page in which 2-3 members have worked, sometimes tags were colliding because of the same names of tags and classes.
 
-Team
+## Team
 -Vedprakash, Akshay Kadu, Prashant shetti, Shivani Thakur, Sumedh Ambhore
 
-Authors
-@Akshaykadu
+># Authors
+@Akshaykadu24
