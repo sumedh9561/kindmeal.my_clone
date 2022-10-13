@@ -1,7 +1,7 @@
 ﻿# aloof-observation-7622
  
  Kindmeal.com website was our project for Unit-3 Construct week at Masai School. We have made this project in 5 days.
-Our clone asos website - 
+Our clone kimdmeal website - 
 
 # Tech Stack
  
@@ -24,10 +24,10 @@ Another challenge was to merge all of the files in a proper sequence which was a
 We faced challenges with CSS tags and class also, because when we merged CSS files for any page in which 2-3 members have worked, sometimes tags were colliding because of the same names of tags and classes.
 
 ## Team
--Vedprakash
--Akshay Kadu
--Prashant shetti  Sumedh Ambhore
--Shivani Thakur
--Sumedh Ambhore
+Vedprakash
+Akshay Kadu
+Prashant shetti  Sumedh Ambhore
+Shivani Thakur
+Sumedh Ambhore
 ># Authors
 @Akshaykadu24
