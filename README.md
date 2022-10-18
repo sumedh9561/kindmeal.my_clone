@@ -24,10 +24,10 @@ Another challenge was to merge all of the files in a proper sequence which was a
 We faced challenges with CSS tags and class also, because when we merged CSS files for any page in which 2-3 members have worked, sometimes tags were colliding because of the same names of tags and classes.
 
 ## Team
--Vedprakash
--Akshay Kadu
--Prashant shetti 
--Shivani Thakur
--Sumedh Ambhore
-># Authors
-@Akshaykadu24
+* Vedprakash
+* Akshay Kadu
+* Prashant shetti 
+* Shivani Thakur
+* Sumedh Ambhore
+## Authors
+* @Akshaykadu24
