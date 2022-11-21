@@ -31,3 +31,22 @@ We faced challenges with CSS tags and class also, because when we merged CSS fil
 * Sumedh Ambhore
 ## Authors
 * @Akshaykadu24
+
+## Home Page
+
+<p align="center">
+  <img src="images/1.jpeg" width="auto" alt="accessibility text">
+</p>
+
+## SignUp Page
+
+<p align="center">
+  <img src="images/2.jpeg" width="auto" alt="accessibility text">
+</p>
+
+## Login Page
+
+<p align="center">
+  <img src="images/3.jpeg" width="auto" alt="accessibility text">
+</p>
+
